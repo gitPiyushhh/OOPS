@@ -1,0 +1,6 @@
+/////////////////////////////////////
+//// Access Modifiers:
+
+1. Public: Accessible within or outside class
+2. Protected: Accessible within class and suclass {'_'}
+3. Private: Accessible within class {'_ _'}
